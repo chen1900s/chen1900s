@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @chen1900s  Currently living in Xi 'an, I have been engaged in IT technology since graduation, mainly responsible for the direction of operation and maintenance automation. Currently, I am mainly engaged in kubernetes operation and maintenance. Welcome you to discuss and learn together
